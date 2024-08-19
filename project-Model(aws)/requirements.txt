@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+pymongo
+openai
+sentence_transformers
+pandas
+konlpy
