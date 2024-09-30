@@ -80,7 +80,7 @@ sanjae.gg는 누구나 사용하기 쉽운 인터페이스를 제공하며, AI�
 <br>
 
 ## 📌 IA
-<img src="https://github.com/user-attachments/assets/dd05be85-a194-4b68-b086-3447baf93171">
+<img src="https://github.com/user-attachments/assets/b50d4b34-c104-468c-97ae-ae64a2d81a0a">
 
 <br>
 <br>
@@ -95,8 +95,8 @@ sanjae.gg는 누구나 사용하기 쉽운 인터페이스를 제공하며, AI�
 <br>
 
 ## 📌 활용방안 및 기대효과
-<img src="https://github.com/user-attachments/assets/cec44276-95ea-4f9c-8f01-cf2dcb475884">
-<img src="https://github.com/user-attachments/assets/2e1bc7af-ef0e-41a6-848c-d7939853612c">
+<img src="https://github.com/user-attachments/assets/813d3aa9-0ed2-4af9-96fc-6c8b35e015d2">
+<img src="https://github.com/user-attachments/assets/d3b715d9-4e93-4f47-bf1a-14723bb9738c">
 
 <br>
 <br>
