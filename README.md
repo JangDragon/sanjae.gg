@@ -98,6 +98,7 @@ sanjae.gg는 누구나 사용하기 쉽운 인터페이스를 제공하며, AI�
 <img src="https://github.com/user-attachments/assets/813d3aa9-0ed2-4af9-96fc-6c8b35e015d2">
 <img src="https://github.com/user-attachments/assets/d3b715d9-4e93-4f47-bf1a-14723bb9738c">
 
+
 <br>
 <br>
 
@@ -106,17 +107,17 @@ sanjae.gg는 누구나 사용하기 쉽운 인터페이스를 제공하며, AI�
 ### 메인
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/c1c4b74c-f979-48c1-b372-b71deb356e30">
+<img src="https://github.com/user-attachments/assets/1a391211-3642-478c-9b4d-0970de1c8a83" width="1000">
 </details>
 
 ### 판례문 검색
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/f791b0ca-41ad-4123-a920-792355a2bf07">
+<img src="https://github.com/user-attachments/assets/f1a40e27-eb72-4e5d-bfcb-9271c3fd09ef" width="1000">
 </details>
 
 ### AI 산재 판별
 <details>
 <summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/56f0bc96-67ac-40bd-a524-6d86af94c2da">
+<img src="https://github.com/user-attachments/assets/32589b9a-71c5-4f29-ad27-0dcec1ae40ca">
 </details>
